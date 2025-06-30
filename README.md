@@ -66,15 +66,15 @@ Pete-The-Travel-Agent/
 
 **⚠️ Critical Setup Requirement**
 
-For GitHub Copilot to effectively research activities, lodging, and travel information, you **must disable your firewall** to allow Copilot to search the web. This enables the AI to access current pricing, availability, and real-world travel data.
+For GitHub Copilot Coding Agent to effectively research activities, lodging, and travel information, you need to **configure your firewall settings** to allow the Coding Agent to access the internet for web searches. This enables the AI to access current pricing, availability, and real-world travel data.
 
 ### How to Configure Firewall Settings
 
-Refer to the official GitHub documentation for detailed instructions:
+Refer to the official GitHub documentation for detailed instructions specific to the Copilot Coding Agent:
 
-- **GitHub Copilot Network Configuration**: [Configuring your proxy server or firewall for GitHub Copilot](https://docs.github.com/en/copilot/configuring-github-copilot/configuring-your-proxy-server-or-firewall-for-github-copilot)
+- **Copilot Coding Agent Firewall Configuration**: [Customizing or disabling the firewall for Copilot Coding Agent](https://docs.github.com/en/copilot/how-tos/agents/copilot-coding-agent/customizing-or-disabling-the-firewall-for-copilot-coding-agent)
+- **General Copilot Network Configuration**: [Configuring your proxy server or firewall for GitHub Copilot](https://docs.github.com/en/copilot/configuring-github-copilot/configuring-your-proxy-server-or-firewall-for-github-copilot)
 - **Copilot Enterprise Settings**: [Managing GitHub Copilot features in your organization](https://docs.github.com/en/copilot/managing-copilot/managing-github-copilot-in-your-organization/managing-github-copilot-features-in-your-organization)
-- **Network Requirements**: [About GitHub Copilot](https://docs.github.com/en/copilot/about-github-copilot)
 
 ### Required Network Access
 
@@ -82,7 +82,8 @@ Ensure your network allows access to:
 - `*.github.com`
 - `*.githubcopilot.com` 
 - `*.openai.com`
-- General web search capabilities for travel research
+- External websites for travel research and data gathering
+- Search engines and travel-related APIs
 
 ## Key Findings
 
