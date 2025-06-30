@@ -1,5 +1,7 @@
-# Pete-The-Travel-Agent
+# Pete-The-Travel-Agent (by The Robrary)
 **An Experiment: GitHub Copilot Coding Agent (GCCA) as a Travel Agent**
+
+**The Robrary: https://blog.robrary.com**
 
 ## Overview
 
@@ -104,4 +106,4 @@ This suggests strong potential for AI-assisted travel planning and demonstrates 
 
 ---
 
-*Experiment conducted in 2024 | Pete The Travel Agent powered by GitHub Copilot*
+*Experiment conducted in 2025 | The Robrary:  https://blog.robrary.com*
